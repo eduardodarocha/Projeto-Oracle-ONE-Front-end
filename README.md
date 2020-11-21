@@ -2,11 +2,7 @@
 
 ### Formação Oracle ONE: Front realizado na Alura com parceria da LABORA.
 
-Projeto Oracle ONE: Lógica de Programação / Labora / Alura
-
- ### Formação Oracle ONE: Front-end realizado na Alura com parceria da LABORA.
-
- ### A Formação é composta de 9 Cursos:
+### A Formação é composta de 9 Cursos:
 **1) HTML5 e CSS3 parte 1: A primeira página da Web** 
  - Instrutor Pedro Marins
    - O que é o HTML e o CSS
