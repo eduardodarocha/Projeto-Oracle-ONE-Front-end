@@ -86,7 +86,7 @@
 ---------------------------
 
 **9) Front-end: Projeto de conclusão**
--Instrutor Flavio Henrique de Souza Almeida
+- Instrutor Flavio Henrique de Souza Almeida
   - Praticando o que aprendeu na carreira Desenvolvedor Front-end
   - Criando do zero um layout proposto
   - Utilizando recursos do CSS3 para aplicar um visual fidedigno
