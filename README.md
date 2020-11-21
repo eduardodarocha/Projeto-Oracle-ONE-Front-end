@@ -95,8 +95,8 @@
   - Finalizando projeto de conclusão da Formação Front-end
 ---------------------------  
 
-**Instrutores Alura:**
- **- Flavio Henrique de Souza Almeida** é desenvolvedor e instrutor, focado no desenvolvimento com Angular e procurando conciliar o frontend com o backend. Palestrou em conferências como QCON e MobileConf. É autor do best-seller "Cangaceiro JavaScript". Além da sua graduação e MBA em TI, também é graduado em Psicologia, aplicando os aprendizados desta área no desenvolvimento de software e de aplicações web.
+**Instrutores Alura:**  
+**- Flavio Henrique de Souza Almeida** é desenvolvedor e instrutor, focado no desenvolvimento com Angular e procurando conciliar o frontend com o backend. Palestrou em conferências como QCON e MobileConf. É autor do best-seller "Cangaceiro JavaScript". Além da sua graduação e MBA em TI, também é graduado em Psicologia, aplicando os aprendizados desta área no desenvolvimento de software e de aplicações web.
  
  **- Pedro Marins**, pela base tecnológica da minha formação, estou sempre estudando novas tecnologias e tendências de mercado. Através de uma experiência profissional multidisciplinar estou envolvida em diversos projetos inovadores, transformando negócios a partir do que há de mais novo no mercado. 
    https://www.linkedin.com/in/pedromarins/
