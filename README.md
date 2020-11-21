@@ -1,4 +1,4 @@
-# Projeto-Oracle-ONE-Front-end / Alura / Labora
+# Projeto Oracle ONE: Front-end / Alura / Labora
 
 ### Formação Oracle ONE: Front realizado na Alura com parceria da LABORA.
 
